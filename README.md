@@ -2,6 +2,8 @@
 Understanding basic input &amp; output operations
 
 
-Software & Installtion: 
+Software Tools:
 
 JetBrains Clion IDE
+Dev-C++
+
