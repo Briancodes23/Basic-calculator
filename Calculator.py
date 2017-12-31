@@ -36,7 +36,7 @@ elif cmd == 3:
 elif cmd == 4:
     print("Division")
     First = int(input_("Enter the First Number"))
-    Second = int_(input_("Enter the second Number"))
+    Second = int(input_("Enter the second Number"))
 
     Result = First / Second
     print(First, '/', Second, '=', Result)
