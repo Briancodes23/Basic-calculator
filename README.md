@@ -1,8 +1,10 @@
 # Basic-calculator
 
-Software Tools:
+Software used:
 
 JetBrains Clion IDE
 
 Dev-C++
+
+Pycharm
 
